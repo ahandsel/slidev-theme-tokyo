@@ -3,6 +3,9 @@
     <div class="bubble-wrap --top-left">
       <bubble />
     </div>
+    <div class="bubble-wrap --top-right">
+      <bubble />
+    </div>
     <div class="bubble-wrap --bottom-left">
       <bubble />
     </div>
@@ -20,8 +23,12 @@
   width: 200px;
 }
 .bubble-wrap.--top-left{
-  top: -100px;
-  left: -100px;
+  top: -150px;
+  left: -20px;
+}
+.bubble-wrap.--top-right{
+  top: -115px;
+  right: -5px;
 }
 .bubble-wrap.--bottom-left{
   bottom: -100px;
