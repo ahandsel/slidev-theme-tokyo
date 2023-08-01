@@ -86,6 +86,30 @@ This shows on the left
 This shows on the right
 
 ---
+layout: two-columns
+---
+
+# Center
+
+This shows on the center
+
+<br>
+
+::left::
+
+# Left
+
+This shows on the left
+
+::right::
+
+# Right
+
+This shows on the right
+
+
+
+---
 layout: center
 class: "text-center"
 ---
