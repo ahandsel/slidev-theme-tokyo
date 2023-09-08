@@ -21,11 +21,15 @@ A minimal, semi-professional theme for [Slidev](https://github.com/slidevjs/slid
 
 ## Install
 
-Add the following frontmatter to your `slides.md`. Start Slidev then it will prompt you to install the theme automatically.
+Add the following front matter to your `slides.md`.
 
-<pre><code>---
-theme: <b>tokyo</b>
----</code></pre>
+```shell
+---
+theme: tokyo
+---
+```
+
+Start Slidev then it will prompt you to install the theme automatically.
 
 Learn more about [how to use a theme](https://sli.dev/themes/use).
 
