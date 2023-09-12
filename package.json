@@ -22,7 +22,10 @@
     "theme-vitesse": "^0.7.3"
   },
   "devDependencies": {
-    "@slidev/cli": "^0.43.1"
+    "@iconify-json/grommet-icons": "^1.1.7",
+    "@iconify-json/logos": "^1.1.36",
+    "@slidev/cli": "^0.43.1",
+    "typescript": "^5.2.2"
   },
   "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
   "slidev": {
