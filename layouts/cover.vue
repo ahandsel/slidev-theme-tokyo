@@ -27,10 +27,7 @@ const style = computed(() => handleBackground(props.image, true))
 </script>
 
 <template>
-  <div
-    class="slidev-layout cover text-center"
-    :style="style"
-  >
+  <div class="slidev-layout cover text-center" :style="style">
     <div class="my-auto w-full">
       <slot />
     </div>
